@@ -23,7 +23,7 @@ Languages & Technologies: `Solidity`, `React`, `Nodejs`, `React Native` \
 
 **Full Stack Developer** \
 [**Stead**](https://stead.global/) • Full-time \
-Languages & Technologies: `Angular`, `Nodejs`, `React`, `Django`, `Sass` \
+Languages & Technologies: `Angular`, `Nodejs`, `React`, `Django`, `Sass`, `Nginx`, `AWS-S3` \
 <br/>
 <br/>
 
@@ -31,7 +31,7 @@ Languages & Technologies: `Angular`, `Nodejs`, `React`, `Django`, `Sass` \
 
 **Jr Software Developer** \
 [**Agilecrew**](http://agilecrew.io/) • Full-time \
-Languages & Technologies: `React`, `Nodejs` \
+Languages & Technologies: `React`, `Nodejs`, `AWS-EC2`, `Route-53`, `Nginx` \
 <br/>
 <br/>
 
