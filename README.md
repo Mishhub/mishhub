@@ -3,7 +3,7 @@
 Software Engineer & Full Stack Developer - Web2 | Web3 | Ios | Android 
 -------------------------------------------------------------------
 
-- 🔭 &nbsp;I’m currently working on Blockchat - a secure and efficient chat app to host blockchain and crypto communities :wink:
+- 🔭 &nbsp;Currently working on Silvernail - a marketplace to buy and sell NFT art collections :wink:
 - 🌱 &nbsp;I’m currently learning Rust and Anchor Framwork for Solana
 - 💬 &nbsp;Ask me about anything related to Javascript | Typescript | Python | Solidity or React | React Native | Angular | NodeJS | Express | Django | Flask
 - 📫 &nbsp;You can get in touch with me by email at [mishhub@gmail.com](mailto:mishhub@gmail.com), [LinkedIn](https://www.linkedin.com/in/mohammedmishhub/), and [Twitter](https://www.linkedin.com/in/mishhubmohammed/).
